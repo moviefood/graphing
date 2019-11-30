@@ -6,7 +6,7 @@ from scipy import stats
 from scipy.interpolate import *
 import csv
 from pandas import *
-
+#lolz
 root = Tk()
 root.wm_title("Regression Tool")
 
